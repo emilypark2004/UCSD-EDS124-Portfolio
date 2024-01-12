@@ -1,3 +1,3 @@
 Week 1 First Snap Program Recording:
 
-<iframe width="560" height="315" src="https://youtu.be/n4FMGxGnf28" title="First Snap Program" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://github.com/emilypark2004/UCSD-EDS124-Portfolio/assets/85959638/c70ed9be-1fca-45d6-a49c-1e0138957063
