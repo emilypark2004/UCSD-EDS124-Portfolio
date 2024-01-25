@@ -8,7 +8,7 @@ Week 2 Show What You Know: Write and Explain a Program
 <br>
 Week 2 Teaching Programming Portfolio: Lesson Plan
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RIjhOV6sk7Q?si=52ScI6i_O6TTHUwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R4HUzNFzkb0?si=33LAPi7PlYIqV5ZX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 Week 3 Show What You Know: Write and Explain a Program(Mouse)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tAlpBV1Yzjk?si=kPl6QH2C86nAchmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
