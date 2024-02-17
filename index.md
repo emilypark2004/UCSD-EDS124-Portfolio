@@ -1,3 +1,7 @@
+Week 7 Penguin at the Beach Program
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h1-OvRB2ggI?si=YDgPetT_EpqP91J1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+
 Week 6 Target and Ball Game Program
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VRgjYsubp_U?si=ZqPl68cba9KHukB6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -6,14 +10,18 @@ Week 6 Target and Ball Game Program
 Week 5 Soccer Ball Program
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uFDPEOFuTJw?si=UHAPmXno6hBubxkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+
 Week 4 Shapes Program
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R0kxsTVfVR0?si=SZGRdzKmjJwyxI76" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
+
 Week 3 Show What You Know: Write and Explain a Program(Monkey Game)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vauN-mupc5U?si=mJTjBZRJ5mI2k98Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
+
 Week 3 Show What You Know: Write and Explain a Program(Mouse)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tAlpBV1Yzjk?si=kPl6QH2C86nAchmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
