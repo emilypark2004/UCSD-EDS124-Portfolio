@@ -1,3 +1,7 @@
+Week 10 Lists Program
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_BMPKgxEUok?si=19KU2far5ltcEW6a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+
 Week 9 Abstraction Program
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KzXGjftxRcs?si=ZCO8SluzQkVnMlvd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
